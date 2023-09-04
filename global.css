@@ -1,6 +1,6 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS&display=swap');
 #code {
-    font-family: Consolas, monospace;
+    font-family: 'Comic Sans MS', cursive;
 }
 
 #enrichment, #cron {
@@ -55,7 +55,6 @@ pre {
     display: grid;
     grid-template-columns: auto auto;
 }
-@import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS&display=swap');
 
 body {
   font-family: 'Comic Sans MS', cursive;
